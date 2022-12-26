@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JiHye%20Jung&fontSize=90)
 
 ### Hi I'm Jihye 👋
+##
+##
+##
 
-[![Jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyewlgP)]
-(https://github.com/jihyewlgP/github-readme-stats)
+![Jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyewlgP)
+
 
 <!--
 **jihyewlgP/jihyewlgP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
