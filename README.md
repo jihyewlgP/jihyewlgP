@@ -2,11 +2,11 @@
 
 <div align=center>
   <h2>Hi I'm Jihye 👋 </h2>
-  <h3>I'm currently working 😄</h3>
-  <h3>I'm growing developer 🌱</h3> </div>
+  <h4>I'm currently working 😄</h4>
+  <h4>I'm growing developer 🌱</h4> </div>
   
 <div align = center>
-  <h4>📚 STACKS</h1></div>
+  <h3>📚 STACKS</h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
