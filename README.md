@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JiHye%20Jung&fontSize=90)
 
-### Hi I'm Jihye 👋
-#
-I'm currently working
-I'm growing developer 🌱
-
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center>
+  <h2>Hi I'm Jihye 👋 </h2>
+  <h3>I'm currently working 😄</h3>
+  <h3>I'm growing developer 🌱</h3> </div>
+  
+<div align = center>
+  <h4>📚 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -18,10 +19,7 @@ I'm growing developer 🌱
   <br>
   
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <br>
-
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 
